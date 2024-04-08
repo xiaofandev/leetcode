@@ -1,4 +1,6 @@
 /**
+ * find middle index in array where sum of left and right is equal
+ *
  * @param {number[]} nums
  * @return {number}
  */
